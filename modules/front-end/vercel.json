@@ -6,7 +6,7 @@
     },
     {
       "source": "/en/(.*)",
-      "destination": "/en/$1"
+      "destination": "/en/"
     }
   ]
 }
